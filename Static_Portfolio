@@ -84,14 +84,33 @@ troubleshooting, and system reliability, which continues to drive my learning an
 <section>
     <h2>Projects</h2>
     <ul>
-        <li>AWS Cloud Web Application Deployment</li>
+        <li>AWS Kubernetes Platform</li>
         <ul>
-            <li>Containerized webpage with Docker</li>
-            <li>Infrastructure provisioned with Terraform</li>
-            <li>Infrastructure and container deployment automated with GitHub Action CI/CD pipeline</li>
+            <li>Designed and deployed a multi-AZ AWS EKS platform using Terraform, provisioning 4 nodes across 2
+Availability Zones to give applications a resilient and secure infrastructure to run in.</li>
+          
+            <li>Automated infrastructure provisioning, log monitoring, and deployments via Bash scripts and GitHub
+Actions CI/CD pipelines, cutting manual troubleshooting time by 70% and improving pipeline reliability.</li>
+          
+            <li>Deployed a Prometheus and Grafana monitoring stack via ArgoCD and Helm, syncing configuration
+from a GitHub repository for continuous observability into cluster and application health.</li>
         </ul>
     
     </ul>
+
+
+    <ul>
+        <li>AWS Cloud Web Application Deployment</li>
+        <ul>
+            <li>Designed and built AWS infrastructure (VPC, EC2, Application Load Balancer, Route 53, ACM, IAM,
+security groups, S3) provisioned with Terraform to host a Docker portfolio application container.</li>
+          
+            <li>Built GitHub Actions CI/CD pipelines using OIDC federation and IAM roles, eliminating long-lived AWS
+credentials and manual maintenance.</li>
+          
+            <li>Diagnosed and resolved recurring CI/CD failures, including IAM permission errors, EC2 network
+misconfigurations, and Docker installation issues, restoring automated deployment reliability.</li>
+        </ul>
 </section>
 
 </body>
