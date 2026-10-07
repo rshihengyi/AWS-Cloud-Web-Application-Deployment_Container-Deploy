@@ -14,8 +14,8 @@
         }
 
         header {
-            background-color: #146e6e;
-            color: green;
+            background-color: #146e41; #green
+            color: white;
             padding: 2rem;
             text-align: center;
         }
