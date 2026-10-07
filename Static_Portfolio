@@ -14,8 +14,8 @@
         }
 
         header {
-            background-color: #6e1414;
-            color: white;
+            background-color: #146e6e;
+            color: green;
             padding: 2rem;
             text-align: center;
         }
@@ -60,7 +60,7 @@
 
 <header>
     <h1>Robert Heng</h1>
-    <p>Cloud Engineering Portfolio</p>
+    <p>DevOps Cloud Engineering Portfolio</p>
     <p></p>
 </header>
 
@@ -72,9 +72,9 @@
         <div>
             <h2>About Me</h2>
             <p>
-               Hey! I'm Robert and my goal is to build a career in cloud engineering. While studying Electrical Engineering, I discovered a passion for cloud 
-infrastructure during a summer internship with SAIC. I was fascinated by the technology operating behind the scenes that enables applications to be securely 
-deployed, scaled, and accessed by users around the world. Through hands-on experience with cloud engineers, I developed an interest in infrastructure automation, 
+               Hey! I'm Robert and my goal is to build a career in cloud infarstrucutre and DevOps engineering. While studying Electrical Engineering, I discovered a passion for cloud 
+infrastructure & DevOps during a summer internship with SAIC. I was fascinated by the technology operating behind the scenes that enables applications to be securely 
+deployed, scaled, and accessed by users around the world. Through hands-on experience with Platform engineers, I developed an interest in infrastructure and deployment automation, 
 troubleshooting, and system reliability, which continues to drive my learning and projects today.
             </p>
         </div>
