@@ -66,8 +66,8 @@
             margin-top: 10px;
         }
         
-        .entry-title { font-style: italic; font-size: 13px; }
-        .entry-date { font-style: italic; font-size: 13px; white-space: nowrap; }
+        .entry-title { font-style: italic; font-size: 16px; }
+        .entry-date { font-style: italic; font-size: 16px; white-space: nowrap; }
         .entry-sub { font-style: italic; font-size: 13px; margin: 1px 0 4px 0; }
         ul { margin: 4px 0 10px 0; padding-left: 40px; }
         li { margin-bottom: 5px; }
